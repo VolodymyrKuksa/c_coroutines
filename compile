@@ -1,0 +1,2 @@
+#!/bin/sh
+clang -g main.c context.c -o test
