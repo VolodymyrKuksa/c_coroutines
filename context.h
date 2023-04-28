@@ -5,6 +5,3 @@ typedef struct
 
 void get_context(volatile Context* c);
 void set_context(volatile Context* c);
-
-void swap_context(volatile Context* current_context, volatile Context* new_context);
-
